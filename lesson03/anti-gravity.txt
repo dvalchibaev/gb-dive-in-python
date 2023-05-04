@@ -1,0 +1,104 @@
+Anti-gravity
+
+From Wikipedia, the free encyclopedia
+Anti-gravity (also known as non-gravitational field) is a hypothetical phenomenon of creating a place or object that is free from the force of gravity. It does not refer to the lack of weight under gravity experienced in free fall or orbit, or to balancing the force of gravity with some other force, such as electromagnetism or aerodynamic lift. Anti-gravity is a recurring concept in science fiction. Examples are the gravity blocking substance "Cavorite" in H. G. Wells's The First Men in the Moon and the Spindizzy machines in James Blish's Cities in Flight.
+
+"Anti-gravity" is often used to refer to devices that look as if they reverse gravity even though they operate through other means, such as lifters, which fly in the air by moving air with electromagnetic fields.[1][2]
+
+Historical attempts at understanding gravity
+Main article: History of gravitational theory
+The possibility of creating anti-gravity depends upon a complete understanding and description of gravity and its interactions with other physical theories, such as general relativity and quantum mechanics; as of 2023 physicists have yet to discover a quantum theory of gravity.
+
+During the summer of 1666, Isaac Newton observed an apple (variety Flower of Kent) falling from the tree in his garden, thus realizing the principle of universal gravitation.[3] Albert Einstein in 1915 considered the physical interaction between matter and space, where gravity occurs as a consequence of matter causing a geometric deformation of space which is otherwise flat.[4][5][6] Einstein, both independently and with Walther Mayer, attempted to unify his theory of gravity with electromagnetism using the work of Theodor Kaluza[7] and James Clerk Maxwell to link gravity and quantum field theory.[8]
+
+Theoretical quantum physicists have postulated the existence of a quantum gravity particle, the graviton. Various theoretical explanations of quantum gravity have been created, these include superstring theory, loop quantum gravity, E8 theory and asymptotic safety theory amongst many others.
+
+Hypothetical solutions
+In Newton's law of universal gravitation, gravity was an external force transmitted by unknown means. In the 20th century, Newton's model was replaced by general relativity where gravity is not a force but the result of the geometry of spacetime. Under general relativity, anti-gravity is impossible except under contrived circumstances.[9][10][11]
+
+Gravity shields
+
+A monument at Babson College dedicated to Roger Babson for research into anti-gravity and partial gravity insulators
+Main article: Gravitational shielding
+In 1948 businessman Roger Babson (founder of Babson College) formed the Gravity Research Foundation to study ways to reduce the effects of gravity.[12] Their efforts were initially somewhat "crankish", but they held occasional conferences that drew such people as Clarence Birdseye, known for his frozen-food products, and helicopter pioneer Igor Sikorsky.[citation needed] Over time the Foundation turned its attention away from trying to control gravity, to simply better understanding it. The Foundation nearly disappeared after Babson's death in 1967. However, it continues to run an essay award, offering prizes of up to $4,000. As of 2017, it is still administered out of Wellesley, Massachusetts, by George Rideout Jr., son of the foundation's original director.[13] Winners include California astrophysicist George F. Smoot (1993), who later won the 2006 Nobel Prize in physics, and Gerard 't Hooft (2015) who previously won the 1999 Nobel Prize in physics.[14]
+
+General relativity research in the 1950s
+Main article: United States gravity control propulsion research
+General relativity was introduced in the 1910s, but development of the theory was greatly slowed by a lack of suitable mathematical tools.[clarification needed] It appeared that anti-gravity was outlawed under general relativity.
+
+It is claimed the US Air Force also ran a study effort throughout the 1950s and into the 1960s.[15] Former Lieutenant Colonel Ansel Talbert wrote two series of newspaper articles claiming that most of the major aviation firms had started gravity control propulsion research in the 1950s. However, there is little outside confirmation of these stories, and since they take place in the midst of the policy by press release era, it is not clear how much weight these stories should be given.
+
+It is known that there were serious efforts underway at the Glenn L. Martin Company, who formed the Research Institute for Advanced Study.[16][17] Major newspapers announced the contract that had been made between theoretical physicist Burkhard Heim and the Glenn L. Martin Company. Another effort in the private sector to master understanding of gravitation was the creation of the Institute for Field Physics, University of North Carolina at Chapel Hill in 1956, by Gravity Research Foundation trustee Agnew H. Bahnson.
+
+Military support for anti-gravity projects was terminated by the Mansfield Amendment of 1973, which restricted Department of Defense spending to only the areas of scientific research with explicit military applications. The Mansfield Amendment was passed specifically to end long-running projects that had little to show for their efforts.
+
+Under general relativity, gravity is the result of following spatial geometry (change in the normal shape of space) caused by local mass-energy. This theory holds that it is the altered shape of space, deformed by massive objects, that causes gravity, which is actually a property of deformed space rather than being a true force. Although the equations cannot normally produce a "negative geometry", it is possible to do so by using "negative mass". The same equations do not, of themselves, rule out the existence of negative mass.
+
+Both general relativity and Newtonian gravity appear to predict that negative mass would produce a repulsive gravitational field. In particular, Sir Hermann Bondi proposed in 1957 that negative gravitational mass, combined with negative inertial mass, would comply with the strong equivalence principle of general relativity theory and the Newtonian laws of conservation of linear momentum and energy. Bondi's proof yielded singularity-free solutions for the relativity equations.[18] In July 1988, Robert L. Forward presented a paper at the AIAA/ASME/SAE/ASEE 24th Joint Propulsion Conference that proposed a Bondi negative gravitational mass propulsion system.[19]
+
+Bondi pointed out that a negative mass will fall toward (and not away from) "normal" matter, since although the gravitational force is repulsive, the negative mass (according to Newton's law, F=ma) responds by accelerating in the opposite of the direction of the force. Normal mass, on the other hand, will fall away from the negative matter. He noted that two identical masses, one positive and one negative, placed near each other will therefore self-accelerate in the direction of the line between them, with the negative mass chasing after the positive mass.[18] Notice that because the negative mass acquires negative kinetic energy, the total energy of the accelerating masses remains at zero. Forward pointed out that the self-acceleration effect is due to the negative inertial mass, and could be seen induced without the gravitational forces between the particles.[19]
+
+The Standard Model of particle physics, which describes all currently known forms of matter, does not include negative mass. Although cosmological dark matter may consist of particles outside the Standard Model whose nature is unknown, their mass is ostensibly known – since they were postulated from their gravitational effects on surrounding objects, which implies their mass is positive. The proposed cosmological dark energy, on the other hand, is more complicated, since according to general relativity the effects of both its energy density and its negative pressure contribute to its gravitational effect.
+
+Unique force
+Under general relativity any form of energy couples with spacetime to create the geometries that cause gravity. A longstanding question was whether or not these same equations applied to antimatter. The issue was considered solved in 1960 with the development of CPT symmetry, which demonstrated that antimatter follows the same laws of physics as "normal" matter, and therefore has positive energy content and also causes (and reacts to) gravity like normal matter (see gravitational interaction of antimatter).
+
+For much of the last quarter of the 20th century, the physics community was involved in attempts to produce a unified field theory, a single physical theory that explains the four fundamental forces: gravity, electromagnetism, and the strong and weak nuclear forces. Scientists have made progress in unifying the three quantum forces, but gravity has remained "the problem" in every attempt. This has not stopped any number of such attempts from being made, however.
+
+Generally these attempts tried to "quantize gravity" by positing a particle, the graviton, that carried gravity in the same way that photons (light) carry electromagnetism. Simple attempts along this direction all failed, however, leading to more complex examples that attempted to account for these problems. Two of these, supersymmetry and the relativity related supergravity, both required the existence of an extremely weak "fifth force" carried by a graviphoton, which coupled together several "loose ends" in quantum field theory, in an organized manner. As a side effect, both theories also all but required that antimatter be affected by this fifth force in a way similar to anti-gravity, dictating repulsion away from mass. Several experiments were carried out in the 1990s to measure this effect, but none yielded positive results.[20]
+
+In 2013 CERN looked for an antigravity effect in an experiment designed to study the energy levels within antihydrogen. The antigravity measurement was just an "interesting sideshow" and was inconclusive.[21]
+
+Breakthrough Propulsion Physics Program
+During the close of the twentieth century NASA provided funding for the Breakthrough Propulsion Physics Program (BPP) from 1996 through 2002. This program studied a number of "far out" designs for space propulsion that were not receiving funding through normal university or commercial channels. Anti-gravity-like concepts were investigated under the name "diametric drive". The work of the BPP program continues in the independent, non-NASA affiliated Tau Zero Foundation.[22]
+
+Empirical claims and commercial efforts
+There have been a number of attempts to build anti-gravity devices, and a small number of reports of anti-gravity-like effects in the scientific literature. None of the examples that follow are accepted as reproducible examples of anti-gravity.
+
+Gyroscopic devices
+
+A "kinemassic field" generator from U.S. Patent 3,626,605: Method and apparatus for generating a secondary gravitational force field
+Gyroscopes produce a force when twisted that operates "out of plane" and can appear to lift themselves against gravity. Although this force is well understood to be illusory, even under Newtonian models, it has nevertheless generated numerous claims of anti-gravity devices and any number of patented devices. None of these devices have ever been demonstrated to work under controlled conditions, and have often become the subject of conspiracy theories as a result.
+
+Another "rotating device" example is shown in a series of patents granted to Henry Wallace between 1968 and 1974. His devices consist of rapidly spinning disks of brass, a material made up largely of elements with a total half-integer nuclear spin. He claimed that by rapidly rotating a disk of such material, the nuclear spin became aligned, and as a result created a "gravitomagnetic" field in a fashion similar to the magnetic field created by the Barnett effect.[23][24][25] No independent testing or public demonstration of these devices is known.
+
+In 1989, it was reported that a weight decreases along the axis of a right spinning gyroscope.[26] A test of this claim a year later yielded null results.[27] A recommendation was made to conduct further tests at a 1999 AIP conference.[28]
+
+Thomas Townsend Brown's gravitator
+Further information: Biefeld-Brown effect, Electrogravitics, and United States gravity control propulsion research § Brown's gravitator
+In 1921, while still in high school, Thomas Townsend Brown found that a high-voltage Coolidge tube seemed to change mass depending on its orientation on a balance scale. Through the 1920s Brown developed this into devices that combined high voltages with materials with high dielectric constants (essentially large capacitors); he called such a device a "gravitator". Brown made the claim to observers and in the media that his experiments were showing anti-gravity effects. Brown would continue his work and produced a series of high-voltage devices in the following years in attempts to sell his ideas to aircraft companies and the military. He coined the names Biefeld–Brown effect and electrogravitics in conjunction with his devices. Brown tested his asymmetrical capacitor devices in a vacuum, supposedly showing it was not a more down-to-earth electrohydrodynamic effect generated by high voltage ion flow in air.
+
+Electrogravitics is a popular topic in ufology, anti-gravity, free energy, with government conspiracy theorists and related websites, in books and publications with claims that the technology became highly classified in the early 1960s and that it is used to power UFOs and the B-2 bomber.[29] There is also research and videos on the internet purported to show lifter-style capacitor devices working in a vacuum, therefore not receiving propulsion from ion drift or ion wind being generated in air.[29][30]
+
+Follow-up studies on Brown's work and other claims have been conducted by R. L. Talley in a 1990 US Air Force study, NASA scientist Jonathan Campbell in a 2003 experiment,[29] and Martin Tajmar in a 2004 paper.[31] They have found that no thrust could be observed in a vacuum and that Brown's and other ion lifter devices produce thrust along their axis regardless of the direction of gravity consistent with electrohydrodynamic effects.
+
+Gravitoelectric coupling
+In 1992, the Russian researcher Eugene Podkletnov claimed to have discovered, whilst experimenting with superconductors, that a fast rotating superconductor reduces the gravitational effect.[32] Many studies have attempted to reproduce Podkletnov's experiment, always to negative results.[33][34][35][36]
+
+Ning Li and Douglas Torr, of the University of Alabama in Huntsville proposed how a time dependent magnetic field could cause the spins of the lattice ions in a superconductor to generate detectable gravitomagnetic and gravitoelectric fields in a series of papers published between 1991 and 1993.[37][38][39] In 1999, Li and her team appeared in Popular Mechanics, claiming to have constructed a working prototype to generate what she described as "AC Gravity." No further evidence of this prototype has been offered.[40][41]
+
+Douglas Torr and Timir Datta were involved in the development of a "gravity generator" at the University of South Carolina.[42] According to a leaked document from the Office of Technology Transfer at the University of South Carolina and confirmed to Wired reporter Charles Platt in 1998, the device would create a "force beam" in any desired direction and that the university planned to patent and license this device. No further information about this university research project or the "Gravity Generator" device was ever made public.[43]
+
+Göde Award
+The Institute for Gravity Research of the Göde Scientific Foundation has tried to reproduce many of the different experiments which claim any "anti-gravity" effects. All attempts by this group to observe an anti-gravity effect by reproducing past experiments have been unsuccessful thus far. The foundation has offered a reward of one million euros for a reproducible anti-gravity experiment.[44]
+
+In fiction
+The existence of anti-gravity is a common theme in fantasy and science fiction.
+
+Apergy
+Apergy is a fictitious form of anti-gravitational energy first described by Percy Greg in his 1880 sword and planet novel Across the Zodiac.[45]
+
+John Jacob Astor IV used it in his 1894 science fiction novel A Journey in Other Worlds.[46] Jack London describes it as "the hypothetical existence of a force, the converse of gravitation, which Astor has named 'apergy,'" in his short story entitled "A Thousand Deaths," first published in The Black Cat in 1899.[47]
+
+Apergy can also be found in an 1896 article, "Some Truths About Keely,"[48] where Clara Jessup Bloomfield-Moore used it to describe the latent force John Keely harnessed, by employing frequency to release the latent force found within all atomic matter.[49]
+
+In an ostensibly non-fictitious article published in 1897 in The San Francisco Call titled "The Secret of Aerial Flight Revealed,"[50] science correspondent Frank M. Close, D. Sc., visits an unnamed Hindu man masquerading as a viticulturist somewhere on the Pacific coast who claims to have invented a flying boat that uses an "apergent"—a rare metal called "radlum"—to produce controlled apergic force, allowing the vessel to ascend and descend. The inventor describes apergy as "a force obtained by blending positive and negative electricity with ultheic, the third element or state of electric energy" and calls apergy a "second phase of gravity," hinting at a third phase as well.
+
+S. P. Meek's short story "Cold Light," which appeared in March 1930 in Astounding Stories of Super-Science,[51] mentions apergy as the opposite force of gravity.
+
+In Chris Roberson's short story "Annus Mirabilis" from the 2006 second volume of Tales of the Shadowmen, Doctor Omega and Albert Einstein investigate apergy. Apergy is also mentioned in the Warren Ellis comic Aetheric Mechanics, as being generated by Cavorite technology from The First Men in the Moon.
+
+Other terms
+H. G. Wells's 1901 novel The First Men in the Moon has space travel based on the gravity-blocking properties of "Cavorite."
+
+Philip Francis Nowlan's 1928 story Armageddon 2419 A.D. describes "inertron," a substance that falls up. The story was the basis for the Buck Rogers comic strip and adaptations.
