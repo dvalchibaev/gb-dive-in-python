@@ -39,6 +39,13 @@ class Matrix:
             return False
         return True
 
+    def transpose(self):
+        result = [[self.elements[i][j]
+                   for i in range(self.rows)]
+                  for j in range(self.columns)]
+        return Matrix(result)
+
 
 A = Matrix([[1, 2, 3], [4, 5, 6]])
 print(A, f'A != A + A: \n {A != A + A}')
+print(A.transpose())
